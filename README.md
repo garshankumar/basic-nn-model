@@ -45,7 +45,7 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 Developed by: K.Garshan kumar
-Registration number: 212219220027
+Registration number: 212219040034
 ```
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -107,7 +107,8 @@ AI.predict(x_n1_1)
 
 
 ### New Sample Data Prediction
-![image](https://user-images.githubusercontent.com/112486797/187455614-76dcc90e-9012-49f9-9f04-95738a5d3911.png)
+![image]![image](https://user-images.githubusercontent.com/112486797/187465650-1303591b-0556-47f5-83db-fce298486394.png)
+
 
 
 
